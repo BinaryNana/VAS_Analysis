@@ -210,12 +210,12 @@ domain_dict = {
 
 range_dict = {
     "MoCA": 30,
-    "Memory": 15,
-    "Executive Function": 13,
-    "Attention": 18,
     "Language": 6,
-    "Visuospatial": 7,
     "Orientation": 6,
+    "Visuospatial": 7,
+    "Executive Function": 13,
+    "Memory": 15,
+    "Attention": 18,
 }
 
 for domain in domain_dict.keys():
